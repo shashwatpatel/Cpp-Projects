@@ -11,4 +11,3 @@ install: true
 script:
   - clang++ -g -std=c++14 *.cpp -o test
   - ./test
-

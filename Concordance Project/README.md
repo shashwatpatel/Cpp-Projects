@@ -1,11 +1,4 @@
-# Project 5
-## CSUF CPSC 131, Fall 2018
+# Concordance Project
+- Shashwat Patel shashwatpatel@csu.fullerton.edu, srpatel.2299@gmail.com
 
-MUST EDIT WITH YOUR OWN NAME AND EMAIL IN THE SAME FORMAT
-DELETE UNUSED EMAIL ADDRESSES
-ONLY ONE REPOSITORY SHOULD HAVE YOUR EMAIL ADDRESS (ONE REPO PER GROUP)
-
-Group members:
-- Ada Lovelace adalovelace@csu.fullerton.edu
-- Charles Babbage charlesbab@csu.fullerton.edu
 

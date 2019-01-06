@@ -9,5 +9,5 @@ addons:
       - libstdc++-4.8-dev
 install: true
 script:
-  - clang++ -g -std=c++14 *.cpp -o test
+  - clang++ -g -std=c++14 main.cpp -o test
   - ./test

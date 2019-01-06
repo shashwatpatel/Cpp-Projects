@@ -1,3 +1,2 @@
 # Projects
-Shashwat Patel
-srpatel.2299@gmail.com
+Following are the projects made using different C++ concepts and coding styles.

@@ -1,8 +1,4 @@
-# Project 2
-## CSUF CPSC 131, Fall 2018
+# Browser History Project
+- Shashwat Patel shashwatpatel@csu.fullerton.edu,
+                 srpatel.2299@gmail.com
 
-MUST EDIT WITH YOUR OWN NAME AND EMAIL IN THE SAME FORMAT
-
-Group members:
-- Angel Quiroga angelq17@csu.fullerton.edu
-- Shashwat Patel shashwatpatel@csu.fullerton.edu

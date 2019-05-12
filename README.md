@@ -1,2 +1,2 @@
 # Projects
-Following are the projects made using different C++ concepts and coding styles.
+Following projects made using different C++ concepts such as Object oriented programming, Data Structures etc.

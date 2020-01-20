@@ -36,9 +36,6 @@ Monster setMonster(Monster monster)
 	return monster;
 }
 
-
-
-
 int main()
 {
 	srand(time(NULL));
@@ -84,7 +81,6 @@ int main()
 				{
 					cout << "You got awaya safely!" << "\n" << endl;
 				}
-
 			}
 		}
 		else
@@ -98,7 +94,5 @@ int main()
 	{
 		cout << "You do not have anymore pokeballs so you ran and got away safely," << endl;
 	}
-
-
 	return 0;
 }
